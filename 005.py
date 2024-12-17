@@ -2,5 +2,5 @@
 
 n = int(input('Digite um numero: '))
 ant = n - 1
-suc = n + 110
+suc = n + 1
 print('O numero que você digitou foi {}. Seu antecessor é {} e seu sucessor é {}' .format(n, ant, suc))
